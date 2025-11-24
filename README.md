@@ -1,2 +1,13 @@
-# Daily-Expense-Tracker
-A lightweight Python-based Personal Expense Tracker with secure login, CSV storage, modular architecture, and monthly spending summaries. Designed for simplicity, portability, and offline use. Includes expense CRUD, reporting, and clean CLI workflow.
+# Personal Expense Tracker (Moderate)
+
+A modular Python 3 project that allows users to track daily expenses, categorize them, and generate monthly summaries.
+
+## Features
+- Signup/Login
+- Add, list, delete expenses
+- CSV-based storage
+- Monthly summary
+- Export expenses
+
+## How to run
+python main.py
